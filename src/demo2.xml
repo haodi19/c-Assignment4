@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="gbk"?>
+<!DOCTYPE users SYSTEM "demoXml.dtd">
+<users>
+    <user id="1">
+        <name>Chingching</name>
+        <age>10</age>
+        <level>6</level>
+    </user>
+    <user id="2">
+        <name>Bringbring</name>
+        <age>11</age>
+        <level>2</level>
+    </user>
+</users>

@@ -1,0 +1,6 @@
+<!ELEMENT users (user+)>
+<!ELEMENT user (name,age,level)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA))>
+<!ELEMENT level (#PCDATA))>
+<!ATTLIST user id ID #REQUIRED>
